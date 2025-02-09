@@ -1,0 +1,2 @@
+export const ONE_DAY_IN_SECONDS = 86400;
+export const MILLISECONDS_IN_SECOND = 1000;
