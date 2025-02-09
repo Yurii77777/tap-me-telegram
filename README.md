@@ -26,3 +26,7 @@ Create .env:
 ### FrontEnd for this repo here
 
 **tap-me-react:** [tap-me-react](https://github.com/Yurii77777/tap-me-react)
+
+### Watch Video
+
+[![Telegram Mini App. Part 1](https://img.youtube.com/vi/kxzmfo26rwM/0.jpg)](https://youtu.be/kxzmfo26rwM)
