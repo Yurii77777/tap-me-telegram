@@ -20,4 +20,9 @@ Create .env:
 - **ExpressJS:** [ExpressJS](https://expressjs.com/)
 - **MongoDB:** [MongoDB](https://www.mongodb.com/)
 - **Mongoose:** [Mongoose](https://mongoosejs.com/)
+- **TelegrafJS:** [TelegrafJS](https://telegraf.js.org/)
 - **Telegram Mini App API:** [Telegram Mini App API](https://core.telegram.org/bots/webapps#initializing-mini-apps)
+
+### FrontEnd for this repo here
+
+**tap-me-react:** [tap-me-react](https://github.com/Yurii77777/tap-me-react)
